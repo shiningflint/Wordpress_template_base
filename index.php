@@ -1,8 +1,8 @@
 <?php
 /*
-Theme Name: Starty
-Author: Starty International
-Author URI: www.starty-in.jp
+Theme Name: my_awesome_theme
+Author: Me Myself and I
+Author URI: www.myawesometheme.com
 Version: 0.1
 */
 

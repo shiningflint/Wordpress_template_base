@@ -2,7 +2,14 @@
 Very very light with NOTHING in it. Just your HTML, CSS, and JS files.
 
 ## Add all the files into your Wordpress template folder
-Go to your theme directory in your installed Wordpress, e.g. wp/wp-content/themes
+Go to your theme directory in your installed Wordpress.
+e.g.
+1. go to wp/wp-content/themes
+2. create a new folder "my_awesome_theme"
+3. copy all the files to that folder
+4. login to your wp admin panel, go to themes
+5. select the template name that is set in index.php
+6. start building your page
 
 ## WP Template Hierarchy
 Everything goes to index.php in the end. Learn about WP template file naming
