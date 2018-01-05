@@ -13,7 +13,7 @@ e.g.
 
 ## WP Template Hierarchy
 Everything goes to index.php in the end. Learn about WP template file naming
-[https://developer.wordpress.org/themes/basics/template-hierarchy/](https://developer.wordpress.org/themes/basics/template-hierarchy/)
+[https://developer.wordpress.org/themes/basics/template-hierarchy/](https://developer.wordpress.org/themes/basics/template-hierarchy/)  
 [https://developer.wordpress.org/files/2014/10/wp-hierarchy.png](https://developer.wordpress.org/files/2014/10/wp-hierarchy.png)
 
 ### Important files to add:
