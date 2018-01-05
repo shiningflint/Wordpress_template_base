@@ -9,7 +9,7 @@ Version: 0.1
 get_header();
 ?>
 
-<!--内容はここに-->
+<!--all contents go here-->
 
 <?php
 get_footer();

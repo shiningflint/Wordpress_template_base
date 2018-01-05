@@ -4,7 +4,7 @@
     wp_enqueue_script('main', get_template_directory_uri().'/js/main.js', array(), '1.0.0', true);
   }
 
-//下記はWP管理画面の投稿のテキスト入力を削除機能
+// the function below removes the WYSIWYG editor
 /*  function init_remove_support(){
     $post_type = 'post';
     remove_post_type_support( $post_type, 'editor');
